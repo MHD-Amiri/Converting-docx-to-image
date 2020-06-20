@@ -1,0 +1,24 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "converting docx to image",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHD-Amiri/Converting-docx-to-image.git"
+  },
+  "author": "Mohammad Amin Amiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHD-Amiri/Converting-docx-to-image/issues"
+  },
+  "homepage": "https://github.com/MHD-Amiri/Converting-docx-to-image#readme",
+  "dependencies": {
+    "docx-pdf": "0.0.1",
+    "path": "^0.12.7",
+    "pdf-poppler": "^0.2.1"
+  }
+}
